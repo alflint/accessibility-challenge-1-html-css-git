@@ -1,5 +1,7 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+[Deployed URL](https://alflint.github.io/boot-camp-challenge-1-html-css-git/)
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
